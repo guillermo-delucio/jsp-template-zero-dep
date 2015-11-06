@@ -1,2 +1,2 @@
-# jsp-template-zero-dep
-Zero dependency jsp template
+# Simple JSP Template
+Based only in jsp tag files
